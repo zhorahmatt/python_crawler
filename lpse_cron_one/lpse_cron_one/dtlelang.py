@@ -18,7 +18,7 @@ def get_url_list():
     urls = []
     ids = []
     #append url list to urls var
-    for mongo_url in mongo_lpse_url_list.find({"status_url" : 0}):
+    for mongo_url in mongo_lpse_url_list.find():
         link_summary = mongo_url["url"]+"eproc4/dt/lelang"
         urls.append(link_summary)
         ids.append(mongo_url["_id"])
@@ -44,13 +44,12 @@ def httpReq():
             response.close()
 
             insert_data = insert_to_database(result["data"])
-            insert_data = True
             if insert_data:
                 success_data = eDatabase.eproc_url_lists
                 success_data.update_many(
                     {"_id" : ids[id]},
                     {"$set" : {
-                        "status_url" : 1.0
+                        "status_url" : 0 #berhasil value = 0
                     }
                     }
                 )
@@ -58,13 +57,12 @@ def httpReq():
             else:
                 lists = False
         except urllib2.URLError as e:
-            print "errorki ndi ku di URL Error"
             #save ke database errornya
             error_data = eDatabase.eproc_url_lists
             error_data.update_many(
                 {"_id" : ids[id]},
                 {"$set" : {
-                    "status_url" : 0.0
+                    "status_url" : 1.0
                 }}
             )
     return lists
@@ -95,20 +93,6 @@ def insert_to_database(summaries):
     if status in status_insert:
         return True
 
-def testing_using_database():
-    database = db_connection()
-    urls = database.eproc_url_lists
-    name = []
-    for url in urls.find({"status_url" : 0}):
-        url.update_one(
-            {"url" : url["url"]},
-            {"$set" : {
-                "status_url" : 1
-                }
-            }
-        )
-    return name
-
 def testing():
     urls, ids = get_url_list()
     database = db_connection()
@@ -119,6 +103,52 @@ def testing():
         stat = url_mongo_list.find_one({"_id" : id})
         status.append(stat)
     return status
+
+#get json data from dt/lelang
+def crawl_summaries_tender():
+    urls, ids = get_url_list()
+
+    
+    #
+    limit = 10
+    
 #main
-anjay = httpReq()
-print anjay
+#anjay = httpReq()
+#print anjay
+
+
+#queue class using list
+class Queue:
+    def __init__(self):
+        self.queue = list()
+
+    #mengisi data ke queue
+    def enqueue(self,data):
+        if data not in self.queue:
+            self.queue.insert(0,data)
+            return True
+        return False
+    
+    #hapus data ke queue
+    def dequeue(self):
+        if len(self.queue) > 0:
+            return self.queue.pop()
+        return ("Queue di hapus")
+    
+    #queue ukuran
+    def size(self):
+        return len(self.queue)
+    
+    #cetak seluruh elemen di queue
+    def printQueue(self):
+        return self.queue
+
+list = [1,2,3,4]
+myQueue = deque(list)
+myQueue.append(5)
+myQueue.append(6)
+
+print(myQueue.popleft())
+print(myQueue.popleft())
+
+print myQueue
