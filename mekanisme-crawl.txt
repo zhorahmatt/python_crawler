@@ -1,0 +1,34 @@
+Mekanisme CRAWL/Scrapy LPSE seluruh indonesia
+
+kebutuhan :
+    1. URL Website LPSE yang aktif yang akan di CRAWL contoh : (https://lpse.makassar.go.id/eproc4/lelang)
+    2. setiap LPSE, akan memiliki URL untuk get seluruh data general lelang dengan URL:
+        (https://lpse.makassar.go.id/eproc4/dt/lelang) -> ada tambahan dt untuk eproc versi 4
+    3. melakukan scrapy dari url di poin 2 untuk mendapatkan seluruh data general lelang
+        a. satu URL lakukan get data 100 data setiap kali melakukan proses scrapy
+        b. jika 1 url memiliki 1000 data, maka proses crawl untuk mendapatkan data lelang keseluruhan : 
+            1000/100 = 10 kali crawl per 1 URL
+        c. URL LPSE Aktif ada sekitar 666 URL, berarti 666*10 = 6660 kali proses cronjob untuk jalan
+        d. simpan ke database lokal dalam proses crawl, dengan field dasar yang ada dengan tambahan "status_crawl"
+            dengan type bool
+    4. dari db, get beberapa data untuk lakukan crawl untuk dapatkan detail lelang 
+        a. 10-50 kode lelang yang diambil untuk dilakukan crawl untuk mendapatkan :
+            - pengumuman lelang -> detail lelang
+            - peserta lelang
+        b. simpan ke dalam database, dengan mengganti table untuk kode lelang jika sudah dipanggil untuk crawl
+            dan berhasil nge-crawl
+        c. begitu terus sampai semua kode lelang di database selesai untuk di lakukan crawl
+    5. proses update data ->
+        a. lakukan crawl untuk tiap url LPSE untuk dapatkan data lelang summary (http://lpse.majenekab.go.id/eproc4/dt/lelang),
+        b. lakukan sama halnya dengan poin 3
+        c. jika terdapat perubahan data di table data lelang summary, maka ubah status nya menjadi "belum di crawl"
+        d. cek untuk dapatkan tahap lelang yang "belum selesai" untuk perubahan
+
+
+
+
+URL_LPSE (http://lpse.majenekab.go.id/eproc4/lelang)
+    1. dt lelang => http://lpse.majenekab.go.id/eproc4/dt/lelang
+    2. Pengumuman lelang => URL_LPSE/{id_lelang}/pengumumanlelang
+    3. Peserta lelang => URL_LPSE/{id_lelang}/peserta
+    4. Tahap lelang => URL_LPSE/{id_lelang}/jadwal

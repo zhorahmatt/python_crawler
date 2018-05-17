@@ -1,0 +1,4088 @@
+[
+    {
+    "name" : "Provinsi Aceh"	,
+    "url" : "https://lpse.acehprov.go.id/",
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Banda Aceh"	,
+    "url" : "http://lpse.bandaacehkota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Langsa"	,
+    "url" : "http://lpse.langsakota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Lhokseumawe"	,
+    "url" : "http://lpse.lhokseumawekota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Sabang"	,
+    "url" : "http://lpse.sabangkota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Subulussalam"	,
+    "url" : "http://www.lpse.subulussalamkota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Aceh Barat"	,
+    "url" : "http://lpse.acehbaratkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Aceh Barat Daya"	,
+    "url" : "http://lpse.acehbaratdayakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Aceh Besar"	,
+    "url" : "http://lpse.acehbesarkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Aceh Jaya"	,
+    "url" : "http://lpse.acehjayakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Aceh Selatan"	,
+    "url" : "http://lpse.acehselatankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Aceh Singkil"	,
+    "url" : "http://lpse.acehsingkilkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Aceh Tamiang"	,
+    "url" : "http://lpse.acehtamiangkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Aceh Tengah"	,
+    "url" : "http://lpse.acehtengahkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Aceh Tenggara"	,
+    "url" : "http://lpse.acehtenggarakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Aceh Timur"	,
+    "url" : "http://lpse.acehtimurkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Aceh Utara"	,
+    "url" : "http://lpse.acehutara.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bener Meriah"	,
+    "url" : "http://203.130.195.99/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bireuen"	,
+    "url" : "http://lpse.bireuenkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Gayo Lues"	,
+    "url" : "http://lpse.gayolueskab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Nagan Raya"	,
+    "url" : "http://lpse.naganrayakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Pidie"	,
+    "url" : "http://lpse.pidiekab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Pidie Jaya"	,
+    "url" : "http://lpse.pidiejayakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Simeulue"	,
+    "url" : "http://lpse.simeuluekab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Mahkamah Syariyah Aceh"	,
+    "url" : "http://lpse.ms-aceh.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda Aceh"	,
+    "url" : "http://lpse.aceh.polri.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Malikussaleh"	,
+    "url" : "http://lpse.unimal.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Syiah Kuala Banda Aceh"	,
+    "url" : "http://lpse.unsyiah.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Teuku Umar"	,
+    "url" : "http://lpse.utu.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Sumatera Utara"	,
+    "url" : "http://lpse.sumutprov.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Binjai"	,
+    "url" : "http://lpse.binjaikota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Gunungsitoli"	,
+    "url" : "http://lpse.gunungsitolikota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Medan"	,
+    "url" : "http://lpse.pemkomedan.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Padang Sidempuan"	,
+    "url" : "http://lpse.sidimpuankota.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Pematangsiantar"	,
+    "url" : "http://lpse.pematangsiantarkota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Sibolga"	,
+    "url" : "http://lpse.sibolgakota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Tanjung Balai"	,
+    "url" : "http://lpse.tanjungbalaikota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Tebing Tinggi"	,
+    "url" : "http://lpse.tebingtinggikota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Asahan"	,
+    "url" : "http://103.15.240.58" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Batu Bara"	,
+    "url" : "http://lpse.batubarakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Dairi"	,
+    "url" : "http://lpse.dairikab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Deli Serdang"	,
+    "url" : "http://lpse.deliserdangkab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Humbang Hasundutan"	,
+    "url" : "http://lpse.humbanghasundutankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Karo"	,
+    "url" : "http://lpse.karokab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Labuhan Batu"	,
+    "url" : "http://lpse.labuhanbatukab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Labuhan Batu Selatan"	,
+    "url" : "http://lpse.labuhanbatuselatankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Labuhan Batu Utara"	,
+    "url" : "http://lpse.labuhanbatuutarakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Langkat"	,
+    "url" : "http://lpse.langkatkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Mandailing Natal"	,
+    "url" : "http://lpse.madina.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Nias"	,
+    "url" : "http://lpse.niaskab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Nias Barat"	,
+    "url" : "http://180.250.49.210/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Nias Selatan"	,
+    "url" : "http://103.17.172.178/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Nias Utara"	,
+    "url" : "http://203.130.248.42/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Padang Lawas"	,
+    "url" : "http://lpse.palaskab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Padang Lawas Utara"	,
+    "url" : "http://lpse.padanglawasutarakab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Pakpak Bharat"	,
+    "url" : "http://lpse.pakpakbharatkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Samosir"	,
+    "url" : "http://lpse.samosirkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Serdang Bedagai"	,
+    "url" : "http://lpse.serdangbedagaikab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Simalungun"	,
+    "url" : "http://lpse.simalungunkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Tapanuli Selatan"	,
+    "url" : "http://lpse.tapselkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Tapanuli Tengah"	,
+    "url" : "http://180.250.46.20/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Tapanuli Utara"	,
+    "url" : "http://lpse.taputkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Toba Samosir"	,
+    "url" : "http://lpse.tobasamosirkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Pelabuhan Indonesia 1 Medan"	,
+    "url" : "http://lpse.inaport1.co.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda Sumatera Utara"	,
+    "url" : "http://lpse.sumut.polri.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Negeri Medan"	,
+    "url" : "http://lpse.unimed.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Sumatera Utara"	,
+    "url" : "http://lpse.usu.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Sumatera Barat"	,
+    "url" : "http://lpse.sumbarprov.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Bukit Tinggi"	,
+    "url" : "http://lpse.bukittinggikota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Padang"	,
+    "url" : "http://lpse.padang.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Padang Panjang"	,
+    "url" : "http://lpse.padangpanjang.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Pariaman"	,
+    "url" : "http://lpse.pariamankota.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Payakumbuh"	,
+    "url" : "http://lpse.payakumbuhkota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Sawahlunto"	,
+    "url" : "http://lpse.sawahluntokota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Solok"	,
+    "url" : "http://lpse.solokkota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Agam"	,
+    "url" : "http://lpse.agamkab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Dharmasraya"	,
+    "url" : "http://lpse.dharmasrayakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kepulauan Mentawai"	,
+    "url" : "http://lpse.mentawaikab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Lima Puluh Kota"	,
+    "url" : "http://lpse.limapuluhkotakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Padang Pariaman"	,
+    "url" : "http://103.22.250.214/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Pasaman"	,
+    "url" : "http://lpse.pasamankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Pasaman Barat"	,
+    "url" : "http://lpse.pasamanbaratkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Pesisir Selatan"	,
+    "url" : "http://lpse.pesisirselatankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Sijunjung"	,
+    "url" : "http://lpse.sijunjung.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Solok"	,
+    "url" : "http://lpse.solokkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Solok Selatan"	,
+    "url" : "http://lpse.solselkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Tanah Datar"	,
+    "url" : "http://lpse.tanahdatar.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda Sumatera Barat"	,
+    "url" : "http://lpse.sumbar.polri.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Andalas"	,
+    "url" : "http://lpse.unand.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Negeri Padang"	,
+    "url" : "http://lpse.unp.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Riau"	,
+    "url" : "http://lpse.riau.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Dumai"	,
+    "url" : "http://lpse.dumaikota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Pekanbaru"	,
+    "url" : "http://lpse.pekanbaru.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bengkalis"	,
+    "url" : "http://lpse.bengkaliskab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Indragiri Hilir"	,
+    "url" : "http://lpse.inhilkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Indragiri  Hulu"	,
+    "url" : "http://lpse.inhukab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kampar"	,
+    "url" : "http://lpse.kamparkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kepulauan Meranti"	,
+    "url" : "http://lpse.merantikab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kuantan Singingi"	,
+    "url" : "http://lpse.kuansing.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Pelalawan"	,
+    "url" : "http://lpse.pelalawankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Rokan Hilir"	,
+    "url" : "http://lpse.rohilkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Rokan Hulu"	,
+    "url" : "http://lpse.rokanhulukab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Siak"	,
+    "url" : "http://lpse.siak.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda Riau"	,
+    "url" : "http://36.69.26.211/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Riau"	,
+    "url" : "http://lpse.unri.ac.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Kepulauan Riau"	,
+    "url" : "http://lpse.kepriprov.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Batam"	,
+    "url" : "http://lpse.batamkota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Tanjung Pinang"	,
+    "url" : "http://lpse.tanjungpinangkota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bintan"	,
+    "url" : "http://lpse.bintankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Karimun"	,
+    "url" : "http://lpse.karimunkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kepulauan Anambas"	,
+    "url" : "http://lpse.anambaskab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Natuna"	,
+    "url" : "http://lpse.natunakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda Kepulauan Riau"	,
+    "url" : "http://lpse.kepri.polri.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Jambi"	,
+    "url" : "http://lpse.jambiprov.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Jambi"	,
+    "url" : "http://lpse.jambikota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Sungai Penuh"	,
+    "url" : "http://lpse.sungaipenuhkota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Batanghari"	,
+    "url" : "http://lpse.batangharikab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bungo"	,
+    "url" : "http://lpse.bungokab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kerinci"	,
+    "url" : "http://lpse.kerincikab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Merangin"	,
+    "url" : "http://lpse.meranginkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Muaro Jambi"	,
+    "url" : "http://lpse.muarojambikab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Sarolangun"	,
+    "url" : "http://lpse.sarolangunkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Tanjung Jabung Barat"	,
+    "url" : "http://lpse.tanjabbarkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Tanjung Jabung Timur"	,
+    "url" : "http://lpse.tanjabtimkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Tebo"	,
+    "url" : "http://lpse.tebokab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda Jambi"	,
+    "url" : "http://36.76.242.250/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Jambi"	,
+    "url" : "http://lpse.unja.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Bengkulu"	,
+    "url" : "http://lpse.bengkuluprov.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Bengkulu"	,
+    "url" : "http://118.97.166.133" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bengkulu Selatan"	,
+    "url" : "http://lpse.bengkuluselatankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bengkulu Tengah"	,
+    "url" : "http://lpse.bengkulutengahkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bengkulu Utara"	,
+    "url" : "http://lpse.bengkuluutarakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kaur"	,
+    "url" : "http://lpse.kaurkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kepahiang"	,
+    "url" : "http://lpse.kepahiangkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Lebong"	,
+    "url" : "http://lpse.lebongkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Muko Muko"	,
+    "url" : "http://lpse.mukomukokab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Rejang Lebong"	,
+    "url" : "http://lpse.rejanglebongkab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Seluma"	,
+    "url" : "http://lpse.selumakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda Bengkulu"	,
+    "url" : "http://lpse.bengkulu.polri.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Bengkulu"	,
+    "url" : "http://lpse.unib.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Sumatera Selatan"	,
+    "url" : "http://lpse.sumselprov.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Lubuklinggau"	,
+    "url" : "http://lpse.lubuklinggaukota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Pagar Alam"	,
+    "url" : "http://lpse.pagaralam.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Palembang"	,
+    "url" : "http://lpse.palembang.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Prabumulih"	,
+    "url" : "http://lpse.kotaprabumulih.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Banyuasin"	,
+    "url" : "http://lpse.banyuasinkab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Empat Lawang"	,
+    "url" : "http://empatlawangkab.net/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Lahat"	,
+    "url" : "http://lpse.lahatkab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Muara Enim"	,
+    "url" : "http://lpse.muaraenimkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Musi Banyuasin"	,
+    "url" : "http://lpse.mubakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Musi Rawas"	,
+    "url" : "http://lpse.musirawaskab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Musi Rawas Utara"	,
+    "url" : "http://121.100.25.30/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupatem Ogan ilir"	,
+    "url" : "http://lpse.oganilirkab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Ogan Komering Ilir"	,
+    "url" : "http://lpse.kaboki.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Ogan Komering Ulu"	,
+    "url" : "http://118.97.170.11/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Ogan Komering Ulu Selatan"	,
+    "url" : "http://lpse.okuselatankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Ogan Komering Ulu Timur"	,
+    "url" : "http://lpse.okutimurkab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Penukal Adab Lematang Ilir"	,
+    "url" : "http://203.176.180.250/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda Sumatera Selatan"	,
+    "url" : "http://lpse.sumsel.polri.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Politeknik Negeri Sriwijaya"	,
+    "url" : "http://lpse.polsri.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Sriwijaya"	,
+    "url" : "http://lpse.unsri.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Kepulauan Bangka Belitung"	,
+    "url" : "http://lpse.babelprov.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Pangkal Pinang"	,
+    "url" : "http://lpse.pangkalpinangkota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bangka"	,
+    "url" : "http://lpse.bangka.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bangka Barat"	,
+    "url" : "http://lpse.bangkabaratkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bangka Selatan"	,
+    "url" : "http://lpse.bangkaselatankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bangka Tengah"	,
+    "url" : "http://lpse.bangkatengahkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Belitung"	,
+    "url" : "http://lpse.belitungkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Belitung Timur"	,
+    "url" : "http://lpse.belitungtimurkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda Kepulauan Bangka Belitung"	,
+    "url" : "http://lpse.babel.polri.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Lampung"	,
+    "url" : "http://lpse.lampungprov.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Bandar Lampung"	,
+    "url" : "http://lpse.bandarlampungkota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Metro"	,
+    "url" : "http://lpse.metrokota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Lampung Barat"	,
+    "url" : "http://lpse.lampungbaratkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Lampung Selatan"	,
+    "url" : "http://lpse.lampungselatankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Lampung Tengah"	,
+    "url" : "http://lpse.lampungtengahkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Lampung Timur"	,
+    "url" : "http://lpse.lampungtimurkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Lampung Utara"	,
+    "url" : "http://lpse.lampungutarakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Mesuji"	,
+    "url" : "http://lpse.mesujikab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Pesawaran"	,
+    "url" : "http://lpse.pesawarankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Pesisir Barat"	,
+    "url" : "http://lpse.pesisirbaratkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Pringsewu"	,
+    "url" : "http://lpse.pringsewukab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Tanggamus"	,
+    "url" : "http://45.249.216.129/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Tulang Bawang"	,
+    "url" : "http://lpse.tulangbawangkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Tulang Bawang Barat"	,
+    "url" : "http://lpse.tulangbawangbaratkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Way Kanan"	,
+    "url" : "http://lpse.waykanankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda Lampung"	,
+    "url" : "http://lpse.lampung.polri.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Politeknik Negeri Lampung"	,
+    "url" : "http://lpse.polinela.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Bandar Lampung"	,
+    "url" : "http://lpse.ubl.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Lampung"	,
+    "url" : "http://lpse.unila.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Banten"	,
+    "url" : "http://lpse.bantenprov.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Cilegon"	,
+    "url" : "http://lpse.cilegon.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Serang"	,
+    "url" : "http://lpse.serangkota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Tangerang"	,
+    "url" : "http://lpse.tangerangkota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Tangerang Selatan"	,
+    "url" : "http://lpse.tangerangselatankota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Lebak"	,
+    "url" : "http://lpse.lebakkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Pandeglang"	,
+    "url" : "http://lpse.pandeglangkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Serang"	,
+    "url" : "http://lpse.serangkab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Tangerang"	,
+    "url" : "http://lpse.tangerangkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda Banten"	,
+    "url" : "http://110.137.190.81/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Jawa Barat"	,
+    "url" : "https://lpse.jabarprov.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Bandung"	,
+    "url" : "http://lpse.bandung.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Bekasi"	,
+    "url" : "http://lpse.bekasikota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Bogor"	,
+    "url" : "http://eproc.kotabogor.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Cimahi"	,
+    "url" : "http://lpse.cimahikota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Cirebon"	,
+    "url" : "http://lpse.cirebonkota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Depok"	,
+    "url" : "http://lpse.depok.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Sukabumi"	,
+    "url" : "http://lpse.sukabumikab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Tasikmalaya"	,
+    "url" : "http://lpse.tasikmalayakota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bandung"	,
+    "url" : "http://lpse.bandungkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bandung Barat"	,
+    "url" : "http://lpse.bandungbaratkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bekasi"	,
+    "url" : "http://lpse.bekasikab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bogor"	,
+    "url" : "http://lpse.bogorkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Ciamis"	,
+    "url" : "http://lpse.ciamiskab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Cianjur"	,
+    "url" : "http://lpse.cianjurkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Cirebon"	,
+    "url" : "http://lpse.cirebonkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Garut"	,
+    "url" : "http://lpse.jabarprov.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Indramayu"	,
+    "url" : "http://www.lpse.indramayukab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Karawang"	,
+    "url" : "http://lpse.karawangkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kuningan"	,
+    "url" : "http://lpse.kuningankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Majalengka"	,
+    "url" : "http://lpse.majalengkakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Purwakarta"	,
+    "url" : "http://118.97.188.197/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Subang"	,
+    "url" : "http://lpse.subang.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Sukabumi"	,
+    "url" : "http://lpse.sukabumikab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Sumedang"	,
+    "url" : "http://lpse.sumedangkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Tasikmalaya"	,
+    "url" : "http://lpse.tasikmalayakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda Jawa Barat"	,
+    "url" : "http://lpse.jabar.polri.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Politeknik Negeri Bandung"	,
+    "url" : "http://lpse.polban.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi DKI Jakarta"	,
+    "url" : "http://lpse.jakarta.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "PD Pembangunan Sarana Jaya Jakarta"	,
+    "url" : "http://lpse.saranajaya.co.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda Metro Jaya"	,
+    "url" : "http://lpse.metro.polri.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Politeknik Negeri Jakarta"	,
+    "url" : "http://lpse.pnj.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Indonesia"	,
+    "url" : "http://lpse.ui.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Jawa Tengah"	,
+    "url" : "http://lpse.jatengprov.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Magelang"	,
+    "url" : "http://lpse.magelangkota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Pekalongan"	,
+    "url" : "http://lpse.pekalongankota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Salatiga"	,
+    "url" : "http://lpse.salatigakota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Semarang"	,
+    "url" : "http://lpse.semarangkota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Surakarta"	,
+    "url" : "http://lpse.surakarta.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Tegal"	,
+    "url" : "http://lpse.tegalkota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Banjarnegara"	,
+    "url" : "http://lpse.banjarnegarakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Banyumas"	,
+    "url" : "http://lpse.banyumaskab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Batang"	,
+    "url" : "http://lpse.batangkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Blora"	,
+    "url" : "http://lpse.blorakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Boyolali"	,
+    "url" : "http://lpse.boyolalikab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Brebes"	,
+    "url" : "http://lpse.brebeskab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Cilacap"	,
+    "url" : "http://lpse.cilacapkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Demak"	,
+    "url" : "http://lpse.demakkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Grobongan"	,
+    "url" : "http://lpse.grobogan.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Jepara"	,
+    "url" : "http://lpse.jeparakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Karanganyar"	,
+    "url" : "http://lpse.karanganyarkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kebumen"	,
+    "url" : "http://lpse.kebumenkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kendal"	,
+    "url" : "http://lpse.kendalkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Klaten"	,
+    "url" : "http://lpse.klatenkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kudus"	,
+    "url" : "http://lpse.kuduskab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Magelang"	,
+    "url" : "http://lpse.magelangkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Pati"	,
+    "url" : "http://lpsepatikab.org" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Pekalongan"	,
+    "url" : "http://lpse.pekalongankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Pemalang"	,
+    "url" : "http://lpse.pemalangkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Purbalingga"	,
+    "url" : "http://lpse.purbalinggakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Purworejo"	,
+    "url" : "http://lpse.purworejokab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Rembang"	,
+    "url" : "http://lpse.rembangkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Semarang"	,
+    "url" : "http://lpse.semarangkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Sragen"	,
+    "url" : "http://lpse.sragenkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Sukoharjo"	,
+    "url" : "http://lpse.sukoharjokab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Tegal"	,
+    "url" : "http://lpse.tegalkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Temanggung"	,
+    "url" : "http://lpse.temanggungkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Wonogiri"	,
+    "url" : "http://lpse.wonogirikab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Wonosobo"	,
+    "url" : "http://lpse.wonosobokab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda Jawa Tengah"	,
+    "url" : "http://lpse.jateng.polri.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Diponegoro"	,
+    "url" : "http://lpse.undip.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Jenderal Soedirman"	,
+    "url" : "http://lpse.unsoed.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Negeri Sebelas Maret Surakarta"	,
+    "url" : "http://lpse.uns.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Negeri Semarang"	,
+    "url" : "http://lpse.unnes.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Jawa Timur"	,
+    "url" : "http://lpse.jatimprov.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Batu"	,
+    "url" : "http://lpse.batukota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Blitar"	,
+    "url" : "http://lpse.blitarkota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Kediri"	,
+    "url" : "http://lpse.kedirikota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Madiun"	,
+    "url" : "http://lpse.madiunkota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Malang"	,
+    "url" : "http://lpse.malangkota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Mojokerto"	,
+    "url" : "http://lpse.mojokertokota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Pasuruan"	,
+    "url" : "http://lpse.pasuruankota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Probolinggo"	,
+    "url" : "http://lpse.probolinggokota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Surabaya"	,
+    "url" : "http://lpse.surabaya.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bangkalan"	,
+    "url" : "http://lpse.bangkalankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Banyuwangi"	,
+    "url" : "http://lpse.banyuwangikab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Blitar"	,
+    "url" : "http://lpse.blitarkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bojonegoro"	,
+    "url" : "http://lpse.bojonegorokab.net/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bondowoso"	,
+    "url" : "http://180.250.164.235/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Gresik"	,
+    "url" : "http://lpse.gresikkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Jember"	,
+    "url" : "http://lpse.jemberkab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Jombang"	,
+    "url" : "http://lpse.jombangkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kediri"	,
+    "url" : "http://lpse.kedirikab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Lamongan"	,
+    "url" : "http://lpse.lamongankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Lumajang"	,
+    "url" : "http://lpse.lumajangkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Madiun"	,
+    "url" : "http://lpse.madiunkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Magetan"	,
+    "url" : "http://lpse.magetankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Malang"	,
+    "url" : "http://lpse.malangkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Mojokerto"	,
+    "url" : "http://lpse.mojokertokab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Nganjuk"	,
+    "url" : "http://lpse.nganjukkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Ngawi"	,
+    "url" : "http://lpse.ngawikab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Pamekasan"	,
+    "url" : "http://lpse.pamekasankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Pasuruan"	,
+    "url" : "http://lpse.pasuruankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Ponorogo"	,
+    "url" : "http://lpse.ponorogo.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Probolinggo"	,
+    "url" : "http://lpse.probolinggokab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Sampang"	,
+    "url" : "http://lpse.sampangkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Sidoarjo"	,
+    "url" : "http://lpse.sidoarjokab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Situbondo"	,
+    "url" : "http://lpse.situbondokab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Sumenep"	,
+    "url" : "http://lpse.sumenep.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Trenggalek"	,
+    "url" : "http://lpse.trenggalekkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Tuban"	,
+    "url" : "http://lpse.tubankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Tulungagung"	,
+    "url" : "http://lpse.tulungagung.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Pacitan"	,
+    "url" : "http://lpse.pacitankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda Jawa Timur"	,
+    "url" : "http://lpse.jatim.polri.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Politeknik Negeri Jember"	,
+    "url" : "http://lpse.polije.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Politeknik Negeri Malang"	,
+    "url" : "http://lpse.polinema.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "RSJ Dr. Radjiman Wediodiningrat Lawang"	,
+    "url" : "http://222.124.26.92/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Sekolah Tinggi Agama Islam Negeri Jember"	,
+    "url" : "http://lpse.iain-jember.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Airlangga"	,
+    "url" : "http://lpse.unair.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Brawijaya"	,
+    "url" : "http://lpse.ub.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Jember"	,
+    "url" : "http://lpse.unej.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Negeri Malang"	,
+    "url" : "http://lpse.um.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Negeri Surabaya"	,
+    "url" : "http://lpse.unesa.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Daerah Istimewa Yogyakarta"	,
+    "url" : "http://lpse.jogjaprov.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Yogyakarta"	,
+    "url" : "http://lpse.jogjakota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bantul"	,
+    "url" : "http://lpse.bantulkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Gunung Kidul"	,
+    "url" : "http://lpse.gunungkidulkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kulon Progo"	,
+    "url" : "http://lpse.kulonprogokab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Sleman"	,
+    "url" : "http://lpse.slemankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda DIY"	,
+    "url" : "http://lpse.jogja.polri.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Gadjah Mada"	,
+    "url" : "http://lpse.ugm.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Bali"	,
+    "url" : "http://lpse.baliprov.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Denpasar"	,
+    "url" : "http://eproc.denpasarkota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Badung"	,
+    "url" : "http://lpse.badungkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bangli"	,
+    "url" : "http://lpse.banglikab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Buleleng"	,
+    "url" : "http://lpse.bulelengkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Gianyar"	,
+    "url" : "http://lpse.gianyarkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Jembrana"	,
+    "url" : "http://lpse.jembranakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Karangasem"	,
+    "url" : "http://lpse.karangasemkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Klungkung"	,
+    "url" : "http://36.75.215.111/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Tabanan"	,
+    "url" : "http://lpse.tabanankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda Bali"	,
+    "url" : "http://lpse.bali.polri.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Sekolah Tinggi Pariwisata Nusa Dua Bali"	,
+    "url" : "http://lpse.stpbali.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Udayana"	,
+    "url" : "http://lpse.unud.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Nusa Tenggara Barat"	,
+    "url" : "http://lpse.ntbprov.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Bima"	,
+    "url" : "http://118.97.134.162/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Mataram"	,
+    "url" : "http://lpse.mataramkota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bima"	,
+    "url" : "http://180.250.210.130" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Dompu"	,
+    "url" : "http://lpse.dompukab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Lombok Barat"	,
+    "url" : "http://lpse.lombokbaratkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Lombok Tengah"	,
+    "url" : "http://lpse.lomboktengahkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Lombok Timur"	,
+    "url" : "http://lpse.lomboktimurkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Lombok Utara"	,
+    "url" : "http://118.97.133.43/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Sumbawa Barat"	,
+    "url" : "http://lpse.sumbawabaratkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Sumbawa"	,
+    "url" : "http://lpse.sumbawakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda Nusa Tenggara Barat"	,
+    "url" : "http://lpse.ntb.polri.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Mataram"	,
+    "url" : "http://lpse.unram.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Nusa Tenggara Timur"	,
+    "url" : "http://222.124.152.187/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Alor"	,
+    "url" : "http://lpse.alorkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Belu"	,
+    "url" : "http://lpse.belukab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Ende"	,
+    "url" : "http://lpse.endekab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Flores Timur"	,
+    "url" : "http://lpse.florestimurkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kupang"	,
+    "url" : "http://lpse.kupangkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Lembata"	,
+    "url" : "http://lpse.lembatakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Malaka"	,
+    "url" : "http://180.250.181.178" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Manggarai"	,
+    "url" : "http://180.250.167.131/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Manggarai Barat"	,
+    "url" : "http://lpse.manggaraibaratkab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Manggarai Timur"	,
+    "url" : "http://lpse.manggaraitimurkab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Ngada"	,
+    "url" : "http://lpse.ngadakab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Nageko"	,
+    "url" : "http://180.250.182.76/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Rote Ndao"	,
+    "url" : "http://180.250.10.19/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Sabu Raijua"	,
+    "url" : "http://lpse.saburaijuakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Sikka"	,
+    "url" : "http://lpse.sikkakab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Sumba Barat"	,
+    "url" : "http://lpse.sumbabaratkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Sumba Barat Daya"	,
+    "url" : "http://lpse.sbdkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Sumba Tengah"	,
+    "url" : "http://lpse.sumbatengahkab.net/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Sumba Timur"	,
+    "url" : "http://lpse.sumbatimurkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Timor Tengah Selatan"	,
+    "url" : "http://lpse.ttskab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Timor Tengah Utara"	,
+    "url" : "http://lpse.ttukab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda Nusa Tenggara Timur"	,
+    "url" : "http://lpse.ntt.polri.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Kalimantan Barat"	,
+    "url" : "http://lpse.kalbarprov.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Pontianak"	,
+    "url" : "http://lpse.pontianakkota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Singkawang"	,
+    "url" : "http://lpse.singkawangkota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Sambas"	,
+    "url" : "http://lpse.sambas.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Sintang"	,
+    "url" : "http://lpse.sintang.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bengkayang"	,
+    "url" : "http://lpse.bengkayangkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kapuas Hulu"	,
+    "url" : "http://lpse.kapuashulukab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kayong Utara"	,
+    "url" : "http://lpse.kayongutarakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Ketapang"	,
+    "url" : "http://lpse.ketapang.org/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kubu Raya"	,
+    "url" : "http://lpse.kuburayakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Landak"	,
+    "url" : "http://lpse.landakkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Melawi"	,
+    "url" : "http://lpse.melawikab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Mempawah"	,
+    "url" : "http://lpse.mempawahkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Sambas"	,
+    "url" : "http://lpse.sambas.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Sanggau"	,
+    "url" : "http://lpse.sanggau.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Sekadau"	,
+    "url" : "http://lpse.sekadaukab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Sintang"	,
+    "url" : "http://lpse.sintang.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda Kalimantan Barat"	,
+    "url" : "http://lpse.kalbar.polri.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Tanjung Pura"	,
+    "url" : "http://lpse.untan.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Kalimantan Selatan"	,
+    "url" : "http://lpse.kalselprov.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Banjarbaru"	,
+    "url" : "http://lpse.banjarbarukota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Banjarmasin"	,
+    "url" : "http://lpse.banjarmasin.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Balangan"	,
+    "url" : "http://lpse.balangankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Banjar"	,
+    "url" : "http://lpse.banjarkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Barito Kuala"	,
+    "url" : "http://222.124.183.58" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Hulu Sungai Selatan"	,
+    "url" : "http://lpse.hulusungaiselatankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Hulu Sungai Utara"	,
+    "url" : "http://lpse.hulusungaiutarakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Hulu Sungai Tengah"	,
+    "url" : "http://118.97.212.26" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kotabaru"	,
+    "url" : "http://lpse.kotabarukab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Tabalong"	,
+    "url" : "http://lpse.tabalongkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Tanah Bumbu"	,
+    "url" : "http://lpse.tanahbumbukab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Tanah Laut"	,
+    "url" : "http://lpse.tanahlautkab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Tapin"	,
+    "url" : "http://lpse.tapinkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Ketapang"	,
+    "url" : "http://lpse.ketapangkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda Kalimantan Selatan"	,
+    "url" : "http://lpse.kalsel.polri.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Lambung Mangkurat"	,
+    "url" : "http://lpse.unlam.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Kalimantan Tengah"	,
+    "url" : "https://lpse.kalteng.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Palangkaraya"	,
+    "url" : "http://lpse.palangkaraya.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Barito Selatan"	,
+    "url" : "http://lpse.baritoselatankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Barito Timur"	,
+    "url" : "http://118.97.212.162/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Barito utara"	,
+    "url" : "http://lpse.baritoutarakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Gunung Mas"	,
+    "url" : "http://lpse.gunungmaskab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kapuas"	,
+    "url" : "http://lpse.kapuaskab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Katingan"	,
+    "url" : "http://lpse.katingankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kotawaringin Barat"	,
+    "url" : "http://lpse.kotawaringinbaratkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kotawaringin Timur"	,
+    "url" : "http://lpse.kotimkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Lamandau"	,
+    "url" : "http://lpse.lamandaukab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Murung Raya"	,
+    "url" : "http://lpse.kabmurungraya.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Pulang Pisau"	,
+    "url" : "http://lpse.pulangpisaukab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Sukamara"	,
+    "url" : "http://lpse.sukamarakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Seruyan"	,
+    "url" : "http://lpse.seruyankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda Kalimantan Tengah"	,
+    "url" : "http://lpse.kalteng.polri.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Palangka Raya"	,
+    "url" : "http://lpse.upr.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Kalimantan Timur"	,
+    "url" : "http://lpse.kaltimprov.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Balikpapan"	,
+    "url" : "http://lpse.balikpapan.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Bontang"	,
+    "url" : "http://lpse.bontangkota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Samarinda"	,
+    "url" : "http://lpse.samarindakota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Berau"	,
+    "url" : "http://lpse.beraukab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kutai Barat"	,
+    "url" : "http://lpse.kubarkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kutai Kartanegara"	,
+    "url" : "http://lpse.kutaikartanegarakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kutai Timur"	,
+    "url" : "http://lpse.kutaitimurkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Mahakam Ulu"	,
+    "url" : "http://lpse.mahakamulukab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Paser"	,
+    "url" : "http://lpse.paserkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Penajam Paser Utara"	,
+    "url" : "http://lpse.penajamkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda Kalimantan Timur"	,
+    "url" : "http://lpse.kaltim.polri.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Mulawarman"	,
+    "url" : "http://lpse.unmul.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Kalimantan Utara"	,
+    "url" : "http://lpse-kaltara.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bulungan"	,
+    "url" : "http://lpse.bulungan.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Malinau"	,
+    "url" : "http://lpse.malinau.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Nunukan"	,
+    "url" : "http://lpse.nunukankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Tana Tidung"	,
+    "url" : "http://lpse.tanatidungkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Gorontalo"	,
+    "url" : "http://lpse.gorontaloprov.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Gorontalo"	,
+    "url" : "http://lpse.gorontalokota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Boalemo"	,
+    "url" : "http://lpse.boalemokab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bone Bolango"	,
+    "url" : "http://lpse.bonebolangokab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Gorontalo"	,
+    "url" : "http://lpse.gorontalokab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Gorontalo Utara"	,
+    "url" : "http://lpse.gorutkab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Pohuwato"	,
+    "url" : "http://lpse.pohuwatokab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda Gorontalo"	,
+    "url" : "http://lpse.gorontalo.polri.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Negeri Gorontalo"	,
+    "url" : "http://lpse.ung.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Sulawesi Selatan"	,
+    "url" : "http://lpse.sulselprov.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Makassar"	,
+    "url" : "http://lpse.makassar.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Palopo"	,
+    "url" : "http://lpse.palopokota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Parepare"	,
+    "url" : "http://112.78.46.114" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bantaeng"	,
+    "url" : "http://lpse.bantaengkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Barru"	,
+    "url" : "http://lpse.barrukab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bone"	,
+    "url" : "http://45.121.43.250/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bulukumba"	,
+    "url" : "http://lpse.bulukumbakab.net/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Enrekang"	,
+    "url" : "http://lpse.enrekangkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Gowa"	,
+    "url" : "http://lpsegowakab.net/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Jeneponto"	,
+    "url" : "http://lpse.jenepontokab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kepulauan Selayar"	,
+    "url" : "http://180.250.216.194/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Luwu"	,
+    "url" : "http://lpse.luwukab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Luwu Timur"	,
+    "url" : "http://lpse.luwutimurkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Luwu Utara"	,
+    "url" : "http://lpse.luwuutara.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Maros"	,
+    "url" : "http://lpse.maroskab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Pangkajene dan Kepulauan"	,
+    "url" : "http://lpse.pangkepkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Pinrang"	,
+    "url" : "http://lpse.pinrangkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Sidenreng Rappang"	,
+    "url" : "http://lpse.sidrapkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Sinjai"	,
+    "url" : "http://lpse.sinjaikab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Soppeng"	,
+    "url" : "http://lpse.soppengkab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Takalar"	,
+    "url" : "http://lpse.takalarkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Tana Toraja"	,
+    "url" : "http://lpse.tanatorajakab.net/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Toraja Utara"	,
+    "url" : "http://lpse-torajautara.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Wajo"	,
+    "url" : "http://lpse-wajokab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda Sulawesi Selatan"	,
+    "url" : "http://lpse.sulsel.polri.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Politeknik Negeri Ujung Pandang"	,
+    "url" : "http://lpse.poliupg.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Politeknik Pertanian Negeri Pangkep (Pangkajene dan Kepulauan)"	,
+    "url" : "http://lpse.polipangkep.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "RSUP Wahidin Sudirohusodo"	,
+    "url" : "http://180.250.216.237/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "STAIN Parepare"	,
+    "url" : "http://lpse.stainparepare.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Hasanudin"	,
+    "url" : "http://lpse.unhas.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Islam Negeri Alauddin Makassar"	,
+    "url" : "http://lpse.uin-alauddin.ac.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Negeri Makassar"	,
+    "url" : "http://lpse.unm.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Sulawesi Tenggara"	,
+    "url" : "http://lpse.sultraprov.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Baubau"	,
+    "url" : "http://lpse.baubaukota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Kendari"	,
+    "url" : "http://lpsekotakendari.net" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bombana"	,
+    "url" : "http://lpse.bombanakab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Buton"	,
+    "url" : "http://lpse.butonkab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Buton Selatan"	,
+    "url" : "http://lpse.butonselatankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Buton Tengah"	,
+    "url" : "http://lpse.butontengahkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Buton Utara"	,
+    "url" : "http://lpse.butonutarakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kolaka"	,
+    "url" : "http://lpse.kolakakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kolaka Timur"	,
+    "url" : "http://27.50.16.57/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kolaka Utara"	,
+    "url" : "http://lpse.kolutkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Konawe"	,
+    "url" : "http://lpse.konawekab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Konawe Kepulauan"	,
+    "url" : "http://lpsekonkep.net/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Konawe Selatan"	,
+    "url" : "http://lpse.konaweselatankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Konawe Utara"	,
+    "url" : "http://lpse.konaweutarakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Muna"	,
+    "url" : "http://lpse.munakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Muna Barat"	,
+    "url" : "http://lpse.munabaratkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Wakatobi"	,
+    "url" : "http://lpse.wakatobikab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Haluoleo"	,
+    "url" : "http://lpse.uho.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Sulawesi Tengah"	,
+    "url" : "http://lpse.sulteng.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Palu"	,
+    "url" : "http://lpse.palukota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Banggai"	,
+    "url" : "http://lpse.banggaikab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Banggai Kepulauan"	,
+    "url" : "http://lpse.bangkepkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Banggai Laut"	,
+    "url" : "http://lpse.sultengprov.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Buol"	,
+    "url" : "http://lpsebuolkab.org/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Donggala"	,
+    "url" : "http://lpse.donggala.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Morowali"	,
+    "url" : "http://lpse.morowalikab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Morowali Utara"	,
+    "url" : "http://lpse.morowaliutarakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Parigi Moutong"	,
+    "url" : "http://lpse.parigimoutongkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Poso"	,
+    "url" : "http://lpse.posokab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Sigi"	,
+    "url" : "http://lpse.sigikab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Tojo una-una"	,
+    "url" : "http://lpse.tojounaunakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten ToliToli"	,
+    "url" : "http://lpse.tolitolikab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda Sulawesi Tengah"	,
+    "url" : "http://lpse.sulteng.polri.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Tadulako"	,
+    "url" : "http://lpse.untad.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Sulawesi Utara"	,
+    "url" : "http://lpse.sulutprov.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Bitung"	,
+    "url" : "http://lpse.bitungkota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Kotamobagu"	,
+    "url" : "http://lpse.kotamobagukota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Manado"	,
+    "url" : "http://lpse.manadokota.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Tomohon"	,
+    "url" : "http://lpse.tomohonkota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bolaang Mongondow"	,
+    "url" : "http://lpse.bolmongkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bolaang Mongondow Selatan"	,
+    "url" : "http://lpse.bolselkab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bolaang Mongondow Utara"	,
+    "url" : "http://180.250.123.107/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bolaang Mongondow Timur"	,
+    "url" : "http://lpse.boltimkab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kepulauan Sangihe"	,
+    "url" : "http://lpse.sangihekab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kepulauan Siau Tagulandang Biaro"	,
+    "url" : "http://lpse.sitarokab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Talaud"	,
+    "url" : "http://118.97.33.28/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Minahasa"	,
+    "url" : "http://lpse.minahasa.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Minahasa Selatan"	,
+    "url" : "http://lpse.minselkab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Minahasa Tenggara"	,
+    "url" : "http://lpse.mitrakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Minahasa Utara"	,
+    "url" : "http://lpse.minutkab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda Sulawesi Utara"	,
+    "url" : "http://lpse.sulut.polri.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Politeknik Negeri Manado"	,
+    "url" : "http://lpse.polimdo.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Negeri Manado"	,
+    "url" : "http://lpse.unima.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Universitas Sam Ratulangi"	,
+    "url" : "http://lpse.unsrat.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Sulawesi Barat"	,
+    "url" : "http://lpse.sulbarprov.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Majene"	,
+    "url" : "http://lpse.majenekab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Mamasa"	,
+    "url" : "http://lpsemamasakab.org/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Mamuju"	,
+    "url" : "http://lpse.mamujukab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Mamuju Tengah"	,
+    "url" : "http://lpse.mamujutengahkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Mamuju Utara"	,
+    "url" : "http://180.250.211.222/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Polewali Mandar"	,
+    "url" : "http://lpse.polewalimandarkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Maluku"	,
+    "url" : "http://lpse.malukuprov.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Ambon"	,
+    "url" : "http://lpse.ambon.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Tual"	,
+    "url" : "http://lpse.tualkota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Buru"	,
+    "url" : "http://103.60.181.130/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Buru Selatan"	,
+    "url" : "http://lpse.burselkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kepulauan Aru"	,
+    "url" : "http://lpse.kepulauanarukab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Maluku Barat Daya"	,
+    "url" : "http://lpse.malukubaratdayakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Maluku Tengah"	,
+    "url" : "http://lpse.maltengkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Maluku Tenggara"	,
+    "url" : "http://lpse.malukutenggarakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Maluku Tenggara Barat"	,
+    "url" : "http://118.98.119.59/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Seram Bagian Barat"	,
+    "url" : "http://lpse.sbbkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Seram Bagian Timur"	,
+    "url" : "http://lpse.serambagiantimurkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda Maluku"	,
+    "url" : "http://lpse.maluku.polri.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Maluku Utara"	,
+    "url" : "http://lpse.malutprov.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Sofifi"	,
+    "url" : "http://lpse.ternatekota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Ternate"	,
+    "url" : "http://lpse.ternatekota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Tidore Kepulauan"	,
+    "url" : "http://lpse.tidorekota.net/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Halmahera Barat"	,
+    "url" : "http://lpse.halbarkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Halmahera Tengah"	,
+    "url" : "http://103.60.182.246/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Halmahera Timur"	,
+    "url" : "http://lpse-haltimkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Halmahera Selatan"	,
+    "url" : "http://222.124.150.154/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Halmahera Utara"	,
+    "url" : "http://lpse.halmaherautarakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kepulauan Sula"	,
+    "url" : "http://119.18.155.186/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Pulau Morotai"	,
+    "url" : "http://103.10.56.138/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Pulau Taliabu"	,
+    "url" : "http://103.60.181.134/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda Maluku Utara"	,
+    "url" : "http://lpse.malut.polri.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Papua"	,
+    "url" : "http://lpse.papua.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Jayapura"	,
+    "url" : "http://lpse.jayapurakota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Asmat"	,
+    "url" : "http://202.125.88.210/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Biak Numfor"	,
+    "url" : "http://202.123.234.100/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Jayapura"	,
+    "url" : "http://lpse.jayapurakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Jayawijaya"	,
+    "url" : "http://lpse.jayawijayakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Keerom (copy)"	,
+    "url" : "http://lpse.keerom.papua.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Kepulauan Yapen"	,
+    "url" : "http://lpse.kepyapenkab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Merauke"	,
+    "url" : "http://lpse.merauke.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Mimika"	,
+    "url" : "http://lpse.mimikakab.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Nabire"	,
+    "url" : "http://lpse.nabirekab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Puncak Jaya"	,
+    "url" : "http://lpse.puncakjayakab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Yalimo"	,
+    "url" : "http://lpse.yalimokab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Polda Papua"	,
+    "url" : "http://lpse.papua.polri.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Provinsi Papua Barat"	,
+    "url" : "http://150.107.140.130/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kota Sorong"	,
+    "url" : "http://115.166.96.187/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Fakfak"	,
+    "url" : "http://119.18.152.110/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Manokwari"	,
+    "url" : "http://lpse.manokwarikab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Raja Ampat"	,
+    "url" : "http://180.250.223.58/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Sorong"	,
+    "url" : "http://lpse.sorongkota.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Sorong Selatan"	,
+    "url" : "http://lpse.sorongselatankab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kabupaten Bintuni"	,
+    "url" : "http://lpse.telukbintunikab.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Badan Ekonomi Kreatif"	,
+    "url" : "http://lpse.parekraf.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Badan Informasi Geospasial"	,
+    "url" : "http://lpse.big.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Badan Intelijen Negara"	,
+    "url" : "http://202.137.7.70/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Badan Keamanan Laut"	,
+    "url" : "http://lpse.bakamla.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Badan Koordinasi Keluarga Berencana Nasional"	,
+    "url" : "http://lpse.bkkbn.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Badan Koordinasi Penanaman Modal"	,
+    "url" : "http://lpse.bkpm.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Badan Meteorologi, Klimatologi, dan Geofisika"	,
+    "url" : "http://lpse.bmkg.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Badan Narkotika Nasional"	,
+    "url" : "http://lpse.bnn.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Badan Nasional Penanggulangan Bencana"	,
+    "url" : "http://lpse.bnpb.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Badan Nasional Penanggulangan Terorisme"	,
+    "url" : "http://lpse.bnpt.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Badan Nasional Penempatan dan Perlindungan Tenaga Kerja Indonesia"	,
+    "url" : "http://lpse.bnp2tki.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Badan Nasional Pengelola Perbatasan"	,
+    "url" : "http://lpse.bnpp.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Badan Pengawas Obat dan Makanan"	,
+    "url" : "http://lpse.pom.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Badan Pengkajian dan Penerapan Teknologi"	,
+    "url" : "http://lpse.bppt.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Badan Pengusaha Batam"	,
+    "url" : "http://lpse.bpbatam.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Badan Pertanahan Nasional"	,
+    "url" : "http://lpse.bpn.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Badan Pusat Statistik"	,
+    "url" : "http://lpse.bps.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Badan SAR Nasional"	,
+    "url" : "http://lpse.basarnas.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Dewan Perwakilan Daerah RI"	,
+    "url" : "http://lpse.dpd.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Dewan Perwakilan Rakyat RI"	,
+    "url" : "http://lpse.dpr.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Sekretariat Jenderal Dewan Ketahanan Nasional"	,
+    "url" : "http://lpse.dkn.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "IAIN Bukittinggi"	,
+    "url" : "http://lpse.iainbukittinggi.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Institut Agama Islam Negeri Raden Fatah Palembang"	,
+    "url" : "http://lpse.radenfatah.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Institut Agama Islam Negeri Raden Intan Lampung"	,
+    "url" : "http://lpse.radenintan.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Institut Teknologi Bandung"	,
+    "url" : "http://lpse.itb.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Institut Teknologi Sepuluh Nopember"	,
+    "url" : "http://lpse.its.ac.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kejaksaan Agung RI"	,
+    "url" : "http://lpse.kejaksaan.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kementerian Agama"	,
+    "url" : "http://lpse.kemenag.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kementerian Dalam Negeri"	,
+    "url" : "http://lpse.kemendagri.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kementerian Energi dan Sumber Daya Mineral"	,
+    "url" : "http://eproc.esdm.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kementerian Hukum dan Hak Asasi Manusia"	,
+    "url" : "http://lpse.kemenkumham.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kementerian Kehutanan"	,
+    "url" : "http://lpse.dephut.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kementerian Kelautan dan Perikanan"	,
+    "url" : "http://lpse.kkp.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kementerian Kesehatan"	,
+    "url" : "http://lpse.depkes.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kementerian Keuangan"	,
+    "url" : "https://lpse.kemenkeu.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kementerian Komunikasi dan Informatika"	,
+    "url" : "http://lpse.kominfo.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kementerian Koordinator Bidang Politik, Hukum, dan Keamanan"	,
+    "url" : "http://lpse.polkam.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kementerian Koperasi dan Usaha Kecil Menengah"	,
+    "url" : "http://lpse.depkop.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kementerian Lingkungan Hidup"	,
+    "url" : "http://lpse.menlh.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kementerian Luar Negeri"	,
+    "url" : "http://lpse.kemlu.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kementerian Negara Riset dan Teknologi"	,
+    "url" : "http://lpse.ristek.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kementerian Pariwisata"	,
+    "url" : "http://lpse.kemenpar.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kementerian Pekerjaan Umum"	,
+    "url" : "http://lpse.pu.go.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kementerian Pembangunan Daerah Tertinggal"	,
+    "url" : "http://lpse.kemenegpdt.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kementerian Pemuda dan Olahraga"	,
+    "url" : "http://lpse.kemenpora.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi"	,
+    "url" : "http://lpse.menpan.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kementerian Pendidikan dan Kebudayaan"	,
+    "url" : "http://lpse.kemdiknas.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kementerian Perdagangan"	,
+    "url" : "http://lpse.kemendag.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kementerian Perhubungan"	,
+    "url" : "http://lpse.dephub.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kementerian Perindustrian"	,
+    "url" : "http://lpse.kemenperin.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kementerian Pertahanan"	,
+    "url" : "http://lpse.kemhan.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kementerian Pertanian"	,
+    "url" : "http://lpse.deptan.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kementerian Tenaga Kerja dan Transmigrasi"	,
+    "url" : "http://lpse.depnakertrans.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Kepolisian RI"	,
+    "url" : "http://lpse.polri.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Komisi Pemilihan Umum"	,
+    "url" : "http://lpse.kpu.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Lembaga Ilmu Pengetahuan Indonesia"	,
+    "url" : "http://lpse.lipi.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah"	,
+    "url" : "https://lpse.lkpp.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Lembaga Ketahanan Nasional"	,
+    "url" : "http://lpse.lemhannas.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Lembaga Penerbangan dan Antariksa Nasional"	,
+    "url" : "http://lpse.lapan.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Lembaga Sandi Negara"	,
+    "url" : "http://lpse.lemsaneg.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "LPSE Nasional"	,
+    "url" : "http://inaproc.lkpp.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Mahkamah Agung RI"	,
+    "url" : "http://lpse.mahkamahagung.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Mahkamah Konstitusi"	,
+    "url" : "http://lpse.mahkamahkonstitusi.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Majelis Permusyawaratan Rakyat RI"	,
+    "url" : "http://lpse.mpr.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "PD Pasar Jaya"	,
+    "url" : "http://lpse.pasarjaya.co.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Perum Lembaga Penyelenggara Pelayanan Navigasi Penerbangan Indonesia"	,
+    "url" : "https://eproc.airnavindonesia.co.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "PT Angkasa Pura II (Persero)"	,
+    "url" : "http://222.124.141.248" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "PT Perusahaan Listrik Negara"	,
+    "url" : "http://eproc-lpse.pln.co.id" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "PT. Jasa Marga (Persero) Tbk."	,
+    "url" : "http://lpse.jasamarga.com/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "PT. Kawasan Berikat Nusantara"	,
+    "url" : "http://lpse.kbn.co.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "PT. Pelayaran Nasional Indonesia"	,
+    "url" : "http://lpse.pelni.co.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Radio Republik Indonesia"	,
+    "url" : "http://118.98.75.44/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Sekretariat Jenderal Dewan Ketahanan Nasional"	,
+    "url" : "http://lpse.dkn.go.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Televisi Republik Indonesia"	,
+    "url" : "http://lpse.tvri.co.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "Tentara Nasional Indonesia"	,
+    "url" : "http://118.97.76.211" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "TNI Angkatan Darat"	,
+    "url" : "http://lpse.tniad.mil.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "TNI ANGKATAN LAUT"	,
+    "url" : "http://lpse.tnial.mil.id/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+},
+{
+    "name" : "TNI Angkatan Udara"	,
+    "url" : "http://180.243.87.93/" ,
+    "status_crawl" : 1,
+    "status_url" : 1
+}
+]

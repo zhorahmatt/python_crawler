@@ -5,6 +5,7 @@ from pymongo import MongoClient
 import pprint
 from collections import deque
 import time
+from bs4 import BeautifulSoup
 
 def db_connection():
     client = MongoClient('localhost', 27017)
@@ -108,7 +109,7 @@ def testing():
 def crawl_summaries_tender():
     urls, ids = get_url_list()
 
-    
+
     #
     limit = 10
     
