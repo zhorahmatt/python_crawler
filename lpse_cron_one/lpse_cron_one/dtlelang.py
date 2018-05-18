@@ -119,37 +119,3 @@ def crawl_summaries_tender():
 
 
 #queue class using list
-class Queue:
-    def __init__(self):
-        self.queue = list()
-
-    #mengisi data ke queue
-    def enqueue(self,data):
-        if data not in self.queue:
-            self.queue.insert(0,data)
-            return True
-        return False
-    
-    #hapus data ke queue
-    def dequeue(self):
-        if len(self.queue) > 0:
-            return self.queue.pop()
-        return ("Queue di hapus")
-    
-    #queue ukuran
-    def size(self):
-        return len(self.queue)
-    
-    #cetak seluruh elemen di queue
-    def printQueue(self):
-        return self.queue
-
-list = [1,2,3,4]
-myQueue = deque(list)
-myQueue.append(5)
-myQueue.append(6)
-
-print(myQueue.popleft())
-print(myQueue.popleft())
-
-print myQueue

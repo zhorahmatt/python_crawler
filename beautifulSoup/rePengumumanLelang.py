@@ -137,7 +137,7 @@ def get_url_from_db():
     mongo_db = make_connection()
     url_lists = mongo_db.eproc_url_lists
     all_url = []
-    for url in url_lists.find():
+    for url in url_lists.find({ "status_crawl" : { "$ne" : 200}}):
         link_to_check = url["url"]+"eproc4/dt/lelang"
         all_url.append(link_to_check)
     return all_url
@@ -188,7 +188,6 @@ def insert_summaries_tender_to_db(summaries):
 
 
 dummy = get_url_from_db()
-# dummy = ["https://lpse.acehprov.go.id/eproc4/dt/lelang"]
 antrian = deque(dummy) #using queue
 newAntrian = deque([])
 while antrian:
