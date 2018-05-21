@@ -22,7 +22,7 @@ def make_soup(url):
     request = urllib2.Request(url)
     statusCode = 0
     connection = make_connection()
-    eprocUrlList = connection.eproc_url_lists
+    eprocUrlList = connection.eproc_url_lists_2
     try:
         time.sleep(1)
         print "on process"
@@ -137,7 +137,7 @@ def get_url_from_db():
     mongo_db = make_connection()
     url_lists = mongo_db.eproc_url_lists_2
     all_url = []
-    for url in url_lists.find({"status_crawl" : 200}):
+    for url in url_lists.find({"status_crawl" : {"$ne" : 200}}):
         link_to_check = url["url"]+"eproc4/dt/lelang"
         all_url.append(link_to_check)
     return all_url
@@ -211,5 +211,17 @@ print antrian
 
 #masukkan ke antrian baru untuk diproses
 print newAntrian
+lastAntrian = deque([])
+while newAntrian:
+    time.sleep(0.5)
+    last = newAntrian.popleft()
+    print last
+    req = make_soup(last)
+    if req == 200:
+        print str(req)+" status code -- load data dari "+last
+    else:
+        lastAntrian.append(last)
+        print str(req)+" status code -- load data dari "+last
 
+print lastAntrian
 #save ke database
