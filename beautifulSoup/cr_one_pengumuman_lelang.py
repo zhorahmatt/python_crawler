@@ -34,21 +34,20 @@ eprocDetailTender = connection.eproc_detail_tender
 for th in mainTh:
     thData = th.text
     td = th.findNext("td")
-    # tableOnTd = td.find("table")
-    # if tableOnTd:
-    #     nestedData = {}
-    #     nestedTh = tableOnTd.findAll("th")
-    #     for nesTh in nestedTh:
-    #         nestedThData = nesTh.text
-    #         print nestedThData
-    #         print "+========================+"
-    #         nestedTd = nesTh.findAll("td")
-    #         print nestedTd
-    #         nestedTdData = nestedTd.text
-    #         nestedData[nestedThData] = nestedTdData
-    #     tdData = nestedData
-    # else:
-    #     tdData = td.text
-
+    tableOnTd = td.find("table")
+    if tableOnTd:
+        nestedData = {}
+        nestedTh = tableOnTd.findAll("th")
+        for nesTh in nestedTh:
+            nestedThData = nesTh.text
+            print nestedThData
+            print "+========================+"
+            nestedTd = nesTh.findAll("td")
+            print nestedTd
+            nestedTdData = nestedTd.text
+            nestedData[nestedThData] = nestedTdData
+        tdData = nestedData
+    else:
+        tdData = td.text
     data[thData] = td.text
 insertData = eprocDetailTender.insert(data)
