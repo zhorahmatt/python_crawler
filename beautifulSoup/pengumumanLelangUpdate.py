@@ -45,7 +45,7 @@ def make_soup(url):
                                 "status_crawl" : statusCode
                             }}
                         )
-                        summariesTender = insert_summaries_tender_to_db(result["data"])
+                        summariesTender = insert_summaries_tender_to_db(result["data"],mainUrl)
                         if False in summariesTender:
                             return "gagal simpan di database"
                         else:
@@ -135,9 +135,9 @@ def make_soup(url):
 
 def get_url_from_db():
     mongo_db = make_connection()
-    url_lists = mongo_db.eproc_url_lists
+    url_lists = mongo_db.eproc_url_lists_2
     all_url = []
-    for url in url_lists.find():
+    for url in url_lists.find({"status_crawl" : 200}):
         link_to_check = url["url"]+"eproc4/dt/lelang"
         all_url.append(link_to_check)
     return all_url
@@ -162,9 +162,9 @@ def updateData(collection, filter, data):
     )
     return update
 
-def insert_summaries_tender_to_db(summaries):
+def insert_summaries_tender_to_db(summaries, mainUrl):
     connection = make_connection()
-    eprocSummariesTender = connection.eproc_summaries_tender
+    eprocSummariesTender = connection.eproc_summaries_tender_2
     statusInsert = []
     for summary in summaries:
         new_summary = [{
@@ -178,8 +178,13 @@ def insert_summaries_tender_to_db(summaries):
             "metode_pengadaan"  : summary[6],
             "metode_evaluasi"   : summary[7],
             "kategori"  : summary[8],
-            "url_summaries" : "",
-            "url_peserta" : ""
+            "main_url" : mainUrl, # https://lpse.makassar.go.id/eproc4/lelang/2588234/pengumumanlelang
+            "url_detail" : mainUrl+"eproc4/lelang/"+summary[0]+"/pengumumanlelang",
+            "url_peserta" : mainUrl+"eproc4/lelang/"+summary[0]+"/peserta",
+            "url_tahap" : mainUrl+"eproc4/lelang/"+summary[0]+"/tahap",
+            "url_hasil" : mainUrl+"eproc4/evaluasi/"+summary[0]+"/hasil",
+            "url_pemenang" : mainUrl+"eproc4/evaluasi/"+summary[0]+"/pemenang",
+            "url_pemenangberkontrak" : mainUrl+"eproc4/evaluasi/"+summary[0]+"/pemenangberkontrak",
         }]
         insert_data = eprocSummariesTender.insert_many(new_summary)
         if insert_data:
@@ -190,7 +195,6 @@ def insert_summaries_tender_to_db(summaries):
 
 
 dummy = get_url_from_db()
-# dummy = ["https://lpse.acehprov.go.id/eproc4/dt/lelang"]
 antrian = deque(dummy) #using queue
 newAntrian = deque([])
 while antrian:

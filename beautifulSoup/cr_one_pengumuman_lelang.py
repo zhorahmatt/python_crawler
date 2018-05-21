@@ -26,17 +26,29 @@ url = "https://lpse.makassar.go.id/eproc4/lelang/2588234/pengumumanlelang"
 req = make_soup(url)
 
 mainTable = req.find("table", {"class" : "table-bordered"})
-data = dict()
+data = {}
+result = []
 mainTh = mainTable.findAll("th")
+connection = make_connection()
+eprocDetailTender = connection.eproc_detail_tender
 for th in mainTh:
-    thData = th
-    print thData.text
+    thData = th.text
     td = th.findNext("td")
-    tdData = td
-    print tdData
-    print "------------------------------"
-    # data[thData] = tdData
+    # tableOnTd = td.find("table")
+    # if tableOnTd:
+    #     nestedData = {}
+    #     nestedTh = tableOnTd.findAll("th")
+    #     for nesTh in nestedTh:
+    #         nestedThData = nesTh.text
+    #         print nestedThData
+    #         print "+========================+"
+    #         nestedTd = nesTh.findAll("td")
+    #         print nestedTd
+    #         nestedTdData = nestedTd.text
+    #         nestedData[nestedThData] = nestedTdData
+    #     tdData = nestedData
+    # else:
+    #     tdData = td.text
 
-# print data
-    
-
+    data[thData] = td.text
+insertData = eprocDetailTender.insert(data)
