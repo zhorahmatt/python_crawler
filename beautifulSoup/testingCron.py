@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import urllib2
 import pymongo
 from pymongo import MongoClient
@@ -22,11 +24,12 @@ def make_soup(url):
     request = urllib2.Request(url)
     statusCode = 0
     connection = make_connection()
-    eprocUrlList = connection.eproc_url_lists
+    eprocUrlList = connection.eproc_url_lists_2
     try:
         time.sleep(1)
         print "on process"
-        response = urllib2.urlopen(url)
+        TO = 4
+        response = urllib2.urlopen(url, timeout=TO)
         statusCode = response.getcode()
         print statusCode
         content = response.read()
@@ -45,7 +48,7 @@ def make_soup(url):
                                 "status_crawl" : statusCode
                             }}
                         )
-                        summariesTender = insert_summaries_tender_to_db(result["data"])
+                        summariesTender = insert_summaries_tender_to_db(result["data"],mainUrl)
                         if False in summariesTender:
                             return "gagal simpan di database"
                         else:
@@ -135,9 +138,9 @@ def make_soup(url):
 
 def get_url_from_db():
     mongo_db = make_connection()
-    url_lists = mongo_db.eproc_url_lists
+    url_lists = mongo_db.eproc_url_lists_2
     all_url = []
-    for url in url_lists.find({ "status_crawl" : { "$ne" : 200}}):
+    for url in url_lists.find({"url" : "http://180.250.49.210/"}):
         link_to_check = url["url"]+"eproc4/dt/lelang"
         all_url.append(link_to_check)
     return all_url
@@ -162,28 +165,39 @@ def updateData(collection, filter, data):
     )
     return update
 
-def insert_summaries_tender_to_db(summaries):
+def insert_summaries_tender_to_db(summaries, mainUrl):
     connection = make_connection()
-    eprocSummariesTender = connection.eproc_summaries_tender
+    eprocSummariesTender = connection.eproc_summaries_tender_2
     statusInsert = []
     for summary in summaries:
-        new_summary = [{
-            "kode_lelang"   : summary[0],
-            "nama_lelang"   : summary[1],
-            "instansi"  : summary[2],
-            "tahap_lelang"  : summary[3],
-            "nilai_pagu_paket"  : summary[4],
-            "metode_kualifikasi"    : summary[5], #lakukan pemisahan kata
-            "metode_dokumen"    : summary[5], #lakukan pemisahan kata
-            "metode_pengadaan"  : summary[6],
-            "metode_evaluasi"   : summary[7],
-            "kategori"  : summary[8],
-        }]
-        insert_data = eprocSummariesTender.insert_many(new_summary)
-        if insert_data:
-            statusInsert.append(1)
-        else:
+        try:
+            new_summary = [{
+                "kode_lelang"   : int(summary[0]),
+                "nama_lelang"   : summary[1],
+                "instansi"  : summary[2],
+                "tahap_lelang"  : summary[3],
+                "nilai_pagu_paket"  : summary[4],
+                "metode_kualifikasi"    : summary[5], #lakukan pemisahan kata
+                "metode_dokumen"    : summary[5], #lakukan pemisahan kata
+                "metode_pengadaan"  : summary[6],
+                "metode_evaluasi"   : summary[7],
+                "kategori"  : summary[8],
+                "main_url" : mainUrl, # https://lpse.makassar.go.id/eproc4/lelang/2588234/pengumumanlelang
+                "url_detail" : mainUrl+"eproc4/lelang/"+summary[0]+"/pengumumanlelang",
+                "url_peserta" : mainUrl+"eproc4/lelang/"+summary[0]+"/peserta",
+                "url_tahap" : mainUrl+"eproc4/lelang/"+summary[0]+"/jadwal",
+                "url_hasil" : mainUrl+"eproc4/evaluasi/"+summary[0]+"/hasil",
+                "url_pemenang" : mainUrl+"eproc4/evaluasi/"+summary[0]+"/pemenang",
+                "url_pemenangberkontrak" : mainUrl+"eproc4/evaluasi/"+summary[0]+"/pemenangberkontrak",
+            }]
+            insert_data = eprocSummariesTender.insert_many(new_summary)
+            if insert_data:
+                statusInsert.append(1)
+            else:
+                statusInsert.append(0)
+        except pymongo.errors.DuplicateKeyError as e:
             statusInsert.append(0)
+            print "Duplicate Entry Key"
     return statusInsert
 
 
@@ -204,5 +218,17 @@ print antrian
 
 #masukkan ke antrian baru untuk diproses
 print newAntrian
+lastAntrian = deque([])
+while newAntrian:
+    time.sleep(0.5)
+    last = newAntrian.popleft()
+    print last
+    req = make_soup(last)
+    if req == 200:
+        print str(req)+" status code -- load data dari "+last
+    else:
+        lastAntrian.append(last)
+        print str(req)+" status code -- load data dari "+last
 
+print lastAntrian
 #save ke database

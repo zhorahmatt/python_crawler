@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import urllib2
 import pymongo
 from pymongo import MongoClient
@@ -167,30 +169,34 @@ def insert_summaries_tender_to_db(summaries, mainUrl):
     eprocSummariesTender = connection.eproc_summaries_tender_2
     statusInsert = []
     for summary in summaries:
-        new_summary = [{
-            "kode_lelang"   : summary[0],
-            "nama_lelang"   : summary[1],
-            "instansi"  : summary[2],
-            "tahap_lelang"  : summary[3],
-            "nilai_pagu_paket"  : summary[4],
-            "metode_kualifikasi"    : summary[5], #lakukan pemisahan kata
-            "metode_dokumen"    : summary[5], #lakukan pemisahan kata
-            "metode_pengadaan"  : summary[6],
-            "metode_evaluasi"   : summary[7],
-            "kategori"  : summary[8],
-            "main_url" : mainUrl, # https://lpse.makassar.go.id/eproc4/lelang/2588234/pengumumanlelang
-            "url_detail" : mainUrl+"eproc4/lelang/"+summary[0]+"/pengumumanlelang",
-            "url_peserta" : mainUrl+"eproc4/lelang/"+summary[0]+"/peserta",
-            "url_tahap" : mainUrl+"eproc4/lelang/"+summary[0]+"/tahap",
-            "url_hasil" : mainUrl+"eproc4/evaluasi/"+summary[0]+"/hasil",
-            "url_pemenang" : mainUrl+"eproc4/evaluasi/"+summary[0]+"/pemenang",
-            "url_pemenangberkontrak" : mainUrl+"eproc4/evaluasi/"+summary[0]+"/pemenangberkontrak",
-        }]
-        insert_data = eprocSummariesTender.insert_many(new_summary)
-        if insert_data:
-            statusInsert.append(1)
-        else:
+        try:
+            new_summary = [{
+                "kode_lelang"   : int(summary[0]),
+                "nama_lelang"   : summary[1],
+                "instansi"  : summary[2],
+                "tahap_lelang"  : summary[3],
+                "nilai_pagu_paket"  : summary[4],
+                "metode_kualifikasi"    : summary[5], #lakukan pemisahan kata
+                "metode_dokumen"    : summary[5], #lakukan pemisahan kata
+                "metode_pengadaan"  : summary[6],
+                "metode_evaluasi"   : summary[7],
+                "kategori"  : summary[8],
+                "main_url" : mainUrl, # https://lpse.makassar.go.id/eproc4/lelang/2588234/pengumumanlelang
+                "url_detail" : mainUrl+"eproc4/lelang/"+summary[0]+"/pengumumanlelang",
+                "url_peserta" : mainUrl+"eproc4/lelang/"+summary[0]+"/peserta",
+                "url_tahap" : mainUrl+"eproc4/lelang/"+summary[0]+"/jadwal",
+                "url_hasil" : mainUrl+"eproc4/evaluasi/"+summary[0]+"/hasil",
+                "url_pemenang" : mainUrl+"eproc4/evaluasi/"+summary[0]+"/pemenang",
+                "url_pemenangberkontrak" : mainUrl+"eproc4/evaluasi/"+summary[0]+"/pemenangberkontrak",
+            }]
+            insert_data = eprocSummariesTender.insert_many(new_summary)
+            if insert_data:
+                statusInsert.append(1)
+            else:
+                statusInsert.append(0)
+        except pymongo.errors.DuplicateKeyError as e:
             statusInsert.append(0)
+            print "Duplicate Entry Key"
     return statusInsert
 
 
