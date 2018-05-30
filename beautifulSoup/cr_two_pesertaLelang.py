@@ -105,7 +105,7 @@ def get_url_list(jenis):
     url_detail = []
     try:
         result = kode_lelang.find({"status_crawl": {"$ne":200}}).limit(200)
-        for url in kode_lelang.find({"status_crawl":{"$ne":200}}):
+        for url in result:
             link = ""
             if jenis == 1:
                 #pengumumanlelang
@@ -133,26 +133,34 @@ def get_url_list(jenis):
 
 
 
-url = get_url_list(1)
+# url = get_url_list(2)
+url = ['https://lpse.makassar.go.id/eproc4/lelang/2608234/peserta']
 urlAntrian = deque(url)
 while urlAntrian:
     time.sleep(0.5)
     lastUrl = urlAntrian.popleft()
     print lastUrl
-    print "===================HALO======================"
+    print "===================Crawling Peserta Lelang======================"
     req = make_soup(lastUrl)
     try:
-        mainTable = req.find("table", {"class" : "table-bordered"})
-        data = {}
-        mainTh = mainTable.findAll("th")
+        mainTable = req.find("table", {"class" : "table table-condensed"})
+        tbody = mainTable.find("tbody")
+        allTr = tbody.findAll("tr")
+        peserta = []
+        for tr in allTr:
+            td = tr.findAll("td")
+            peserta.append(td[1].text)
+        
+        dataPeserta = [{
+            "kode_lelang" : 1,
+            "peserta" : peserta
+        }]
+        print dataPeserta
         connection = make_connection()
-        eprocDetailTender = connection.eproc_detail_tender_2
-        for th in mainTh:
-            thData = th.text
-            td = th.findNext("td")
-            data[thData] = str(td.contents)
+        eprocTahapTender = connection.eproc_participants_tender
         try:
-            insertData = eprocDetailTender.insert(data)
+            # insert data on table peserta lelang
+            insertData = eprocTahapTender.insert(dataPeserta)
         except pymongo.errors.DuplicateKeyError as e :
             print "duplicate key"
     except AttributeError as e:

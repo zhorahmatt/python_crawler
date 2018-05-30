@@ -8,3 +8,29 @@ steps cron :
 issues : 
     - memory management
     - parallel processing
+
+
+struktur database
+    - list url lpse
+        - nama lpse
+        - main url
+        - status url
+        - status crawl
+    - summaries tender
+        - kode lelang
+        - main url
+        - status tender
+    - tender
+        - informasi dasar
+            -
+            -
+            -
+            -
+        - tahap
+            -
+            -
+            -
+            -
+        - peserta
+        - pemenang
+        - pemenang berkontrak
