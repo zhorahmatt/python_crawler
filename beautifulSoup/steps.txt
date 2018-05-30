@@ -32,5 +32,19 @@ struktur database
             -
             -
         - peserta
+            -
+            -
+        - pemenang
+            -
+            -
+        - pemenang berkontrak
+
+steps : 
+    1. get all json file from dt lelang
+    2. simpan ke collection summaries -> including main url, kode lelang, status
+    3. crawl site for each lpse site
+        - detail lelalng
+        - peserta
         - pemenang
         - pemenang berkontrak
+    4. simpan ke collection tender dengan embeed dalam
