@@ -4,11 +4,9 @@ steps cron :
 3. Get tahap (cron 200max/menit)
 4. Reset status lpse semua menjadi 0 (tiap jam 12 malam) jika statusnya 0 akan d cron kembali lpsenya apakah ada data baru atau tdk, stlah slsai status berubah jd 2
 
-
 issues : 
     - memory management
     - parallel processing
-
 
 struktur database
     - list url lpse

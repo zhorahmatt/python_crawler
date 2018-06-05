@@ -1,4 +1,5 @@
 #!/usr/bin/python
+
 import urllib2
 import pymongo
 from pymongo import MongoClient
@@ -26,7 +27,7 @@ def make_soup(url):
     soup = ""
     try:
         time.sleep(0.2)
-        request = urllib2.urlopen(url)
+        request = urllib2.urlopen(url,timeout=5)
         print "Crawling is processing....."
         try:
             print "parsing is processing"
@@ -104,8 +105,8 @@ def get_url_list(jenis):
     kode_lelang = connection.eproc_summaries_tender_2
     url_detail = []
     try:
-        result = kode_lelang.find({"status_crawl": {"$ne":200}}).limit(200)
-        for url in kode_lelang.find({"status_crawl":{"$ne":200}}):
+        result = kode_lelang.find({"status_crawl": {"$ne":200}}).limit(10)
+        for url in result:
             link = ""
             if jenis == 1:
                 #pengumumanlelang
@@ -134,7 +135,9 @@ def get_url_list(jenis):
 
 
 url = get_url_list(1)
+print url
 urlAntrian = deque(url)
+bulk_insert = []
 while urlAntrian:
     time.sleep(0.5)
     lastUrl = urlAntrian.popleft()
@@ -150,10 +153,9 @@ while urlAntrian:
         for th in mainTh:
             thData = th.text
             td = th.findNext("td")
-            data[thData] = str(td.contents)
-        try:
-            insertData = eprocDetailTender.insert(data)
-        except pymongo.errors.DuplicateKeyError as e :
-            print "duplicate key"
+            data[thData] = td.contents
+            bulk_insert.append(data)
     except AttributeError as e:
         print "gagal parsing"
+
+print bulk_insert[0]
