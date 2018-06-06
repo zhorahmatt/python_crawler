@@ -161,9 +161,27 @@ def get_urls():
 urls = get_urls()
 
 #masukkan ke dalam antrian
+queue_eproc_urls = deque(urls)
+failed_queue_eproc_urls = deque([])
 
 #proses antrian
+while queue_eproc_urls:
+    time.sleep(0.5)
+    left_item = queue_eproc_urls.popleft()
+    print "Last Item..."
+    print left_item
+    print "-----------------------------------------------------------------------------"
 
-#simpan data yang gagal ke antrian baru
+    #request onto function
+    try:
+        req = url_req(left_item)
+        if req == 200:
+            print str(req)+" status code -- load data dari "+left_item
+        else:
+            #simpan data yang gagal ke antrian baru
+            failed_queue_eproc_urls.append(left_item)
+            print str(req)+" status code -- load data dari "+left_item
+    except Exception as e:
+        print e
 
 #proses antrian
