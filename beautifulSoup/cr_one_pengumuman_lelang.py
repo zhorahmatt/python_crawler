@@ -105,7 +105,7 @@ def get_url_list(jenis):
     kode_lelang = connection.eproc_summaries_tender_2
     url_detail = []
     try:
-        result = kode_lelang.find({"status_crawl": {"$ne":200}}).limit(10)
+        result = kode_lelang.find({"status_crawl": {"$ne":200}}).limit(200)
         for url in result:
             link = ""
             if jenis == 1:
@@ -132,7 +132,15 @@ def get_url_list(jenis):
         print "gagal koneksi"
         url_detail.append(1)
 
-
+def update_status_crawl(filter,statusCode):
+    connection = make_connection()
+    eproc_url_detail = connection.eproc_summaries_tender_2
+    eproc_url_detail.update_many(
+        {"url_detail" : filter},
+        {"$set" : {
+            "status_crawl" : statusCode
+        }}
+    )
 
 url = get_url_list(1)
 print url
@@ -148,14 +156,14 @@ while urlAntrian:
         mainTable = req.find("table", {"class" : "table-bordered"})
         data = {}
         mainTh = mainTable.findAll("th")
-        connection = make_connection()
-        eprocDetailTender = connection.eproc_detail_tender_2
+        connection = MongoClient('localhost', 27017)
+        db = connection.eproc_research
+        eprocDetailTender = db.eproc_detail_tender_2
         for th in mainTh:
             thData = th.text
             td = th.findNext("td")
-            data[thData] = td.contents
-            bulk_insert.append(data)
+            data[thData] = str(td.contents)
+        insertData = eprocDetailTender.insert(data)
+        connection.close()
     except AttributeError as e:
         print "gagal parsing"
-
-print bulk_insert[0]
