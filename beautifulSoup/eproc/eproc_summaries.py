@@ -147,3 +147,23 @@ def update_status_crawl(params,status_code):
         return True
     return False
 
+#all url lists on database
+def get_urls():
+    connection = db_connect()
+    eproc_url_lists = connection.eproc_url_lists_2
+    urls = []
+    for url in eproc_url_lists.find({"status_crawl" : {"$ne": 200}}):
+        added_link = url["url"]+"eproc4/dt/lelang"
+        urls.append(added_link)
+    return urls
+
+#main function
+urls = get_urls()
+
+#masukkan ke dalam antrian
+
+#proses antrian
+
+#simpan data yang gagal ke antrian baru
+
+#proses antrian
